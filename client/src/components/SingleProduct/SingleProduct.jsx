@@ -30,7 +30,7 @@ const SingleProduct = () => {
                 <span>5</span>
                 <span>+</span>
               </div>
-              <button>
+              <button className='add-to-cart-button'>
                 {" "}
                 <FaCartPlus size={20} /> Add to Cart
               </button>
